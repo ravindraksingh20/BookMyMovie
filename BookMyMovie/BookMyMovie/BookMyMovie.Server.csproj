@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+    <Folder Include="BookMyMovie.Domain\" />
+    <Folder Include="BookMyMovie.Domain.Infrastructure\" />
   </ItemGroup>
 
 </Project>
